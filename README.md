@@ -1,2 +1,2 @@
 # AutoCounter
-A simple counter that can be automated to count at a specifc interval
+A simple counter that can be automated to count at a specific interval automatically.
